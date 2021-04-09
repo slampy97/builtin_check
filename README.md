@@ -6,11 +6,19 @@
 Например, при таком вызове:
 
 def foo():
+
     a = 1
+    
     b = MyClass()
+    
     c = [1, 2, 3]
+    
     d = pandas.read_csv("my_file.csv")
+    
     print_vars()
+    
+    
+    
 Она должна будет распечатать:
 
 a: True
