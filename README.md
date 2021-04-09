@@ -22,6 +22,10 @@ def foo():
 Она должна будет распечатать:
 
 a: True
+
 b: False
+
 c: True
+
 d: False
+
